@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: l5widl2ul-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/l5widl2ul-go
